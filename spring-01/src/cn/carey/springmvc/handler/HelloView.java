@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.View;
 
 
-//bbbbbb
+//bbbbbb+aaaaaaa
 //hello  word
 @Component
 public class HelloView  implements View{
